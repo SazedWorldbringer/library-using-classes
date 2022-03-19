@@ -19,7 +19,7 @@ Add media - Books, Movies or Albums and then run the tests
 
 ## Built With
 
-  - [NeoVim](https://neovim.io) Code editor.
+  - [NeoVim](https://neovim.io) - The Text editor I use.
 
 ## Acknowledgments
 
